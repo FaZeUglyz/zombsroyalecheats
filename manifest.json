@@ -7,9 +7,6 @@
 	"externally_connectable": {
 		"matches": ["*://zombsroyale.io/*", "*://vikingpress.online/proxy/*/surviv.io/*"]
 	},
-	"icons": {
-		"128": "./files/images/ice.png"
-	},
 	"background": {
 		"scripts": ["background.js"]
 	},
